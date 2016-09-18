@@ -45,9 +45,7 @@ namespace mastermind
               
                 d -= 1;
             }
-            Console.WriteLine(preNum);
             
-            //num = Convert.ToInt32(preNum);
             return preNum;
         }
 
